@@ -2,6 +2,12 @@
 ## Eclipse
 #################
 
+#################
+NETBEANS
+
+lib/
+#################
+
 *.pydevproject
 .project
 .metadata
